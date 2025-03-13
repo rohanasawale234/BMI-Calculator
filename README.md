@@ -1,7 +1,7 @@
 #Project 2
 ##BMI Calculator
 
-###JavaScript Code : 
+JavaScript Code : 
 ```javaScript
 const form = document.querySelector("form");
 
